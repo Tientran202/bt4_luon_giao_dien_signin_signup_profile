@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/boder.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/bodercolor.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/bodercolorstartend.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/bodercolorwhite.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/boderse.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cast_for_education_24.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/oval.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/ovalprofile.xml" value="0.176" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/dangky.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/dangky2.xml" value="0.28072916666666664" />
+        <entry key="app/src/main/res/layout/frofile.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/profile2.xml" value="0.28072916666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
